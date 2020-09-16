@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
 
-st.title("Streamlit tips and tricks 🎈")
+st.title("Streamlit tips and tricks 🎈 - Updated!")
 
 st.sidebar.subheader("App inputs")
 select_size = st.sidebar.selectbox("Choose font weight of headers", [3, 2, 1])
